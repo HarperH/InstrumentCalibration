@@ -1,0 +1,10 @@
+	#Sources
+
+https://www.tutorialspoint.com/python/python_gui_programming.htm
+-used examples from here for most of the tkinter inputs and buttons
+
+https://www.tutorialspoint.com/python/tk_radiobutton.htm
+-used to see how to make tkinter radiobuttons
+
+Lab 18 from ENGR1330 course
+-used for statsmodels ols modeling function
