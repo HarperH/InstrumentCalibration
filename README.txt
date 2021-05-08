@@ -12,4 +12,5 @@ you run the last box you'll get a pop-up window asking for inputs.  Simply input
 select your confidence interval, and press enter or click the "Calculate" button to see your results.
 
 If you want to add your own data to our dataset you can as well, just make sure that you enter numbers in each field because
-it converts each input into a float and won't work if not every box has an entry.
+it converts each input into a float and won't work if not every box has an entry.  The "Clear Data Entries" button will
+remove all user data entries, leaving only the provded default dataset.
