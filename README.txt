@@ -15,6 +15,8 @@ Project_worksheet.ipynb - models and model analysis of our data
 Project_worksheet.pdf - pdf version of Project_worksheet.ipynb
 README.txt - you're lookin at it
 compiledFinal.ipynb - client-facing program to convert input voltages to true and analogue pressure outputs
+compiledFinal.pdf - pdf version of the above
+videoLink.txt - Link to our project explanation video
 
 
 	#Program operation
